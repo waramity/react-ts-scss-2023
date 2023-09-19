@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+
+    "outDir": "build/dist",
+    "rootDir": "src",
+    "module": "commonjs",
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "target": "es2016",                                  
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+    "exclude": [
+    "node_modules",
+    "build",
+  ],
+}
